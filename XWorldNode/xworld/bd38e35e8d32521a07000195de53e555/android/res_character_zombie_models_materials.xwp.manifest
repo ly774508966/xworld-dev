@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2628589010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f08fb848b4fca6f41e774a8367b82033
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Character/Zombie_Models/Materials/ZN_Male.mat
+Dependencies:
+- D:/ud/XWorld/XWorld/XWorldNode/xworld/bd38e35e8d32521a07000195de53e555/android/res_character_zombie_models.xwp

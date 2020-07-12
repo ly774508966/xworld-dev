@@ -1,0 +1,1 @@
+ConsoleLinkerNode.exe xwbase.lua account=udx100 password=098765 linker_ip=127.0.0.1 logonmode=1 type=2

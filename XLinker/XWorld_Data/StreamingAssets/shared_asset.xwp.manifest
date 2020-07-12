@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 639500303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cd70ecb83bc23d57bb4323bc4fc5692
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/XWorld/Examples/Textures/Shared/ButtonClick.png
+- Assets/XWorld/Examples/Textures/Shared/ButtonNormal.png
+- Assets/XWorld/Examples/Textures/Shared/ButtonDisable.png
+- Assets/XWorld/Examples/Textures/Shared/SmallBaseMap.png
+Dependencies: []

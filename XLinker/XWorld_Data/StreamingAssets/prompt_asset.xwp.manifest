@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4129039284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc4add3d7639a5c156774852762d87a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/XWorld/Examples/Textures/Prompt/1.png
+Dependencies: []

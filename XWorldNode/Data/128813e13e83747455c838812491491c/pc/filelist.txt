@@ -1,0 +1,14 @@
+client/message.unity3d,a0dd8940f574f1e8bbdd31c258e84aa1,3916
+client/message.unity3d.manifest,63632a5bfc0df04d02847d6bca03ccf7,1106
+client/prompt.unity3d,688e5906a6886e396d86c4d289e63328,47351
+client/prompt.unity3d.manifest,c0933d41fc56ff0b878e19d9933dc25f,2315
+client/prompt_asset.unity3d,1ca0564445b771c55fb473616a09e00f,12947
+client/prompt_asset.unity3d.manifest,d0661446b684133bd62f1fc96c20cd39,401
+client/s1.unity3d,73baa142198ee29e42dc02ba5d4026c6,37795
+client/s1.unity3d.manifest,169531e825cd42a13fb71632f4c35c82,857
+client/shared_asset.unity3d,94269ac0501175cd42c058cee8ddfcf4,27141
+client/shared_asset.unity3d.manifest,6d6e5b49852d0e31010e84a7a70414b3,610
+client/StreamingAssets,5dff007cbc45294868574a6e6658ea31,1696
+client/StreamingAssets.manifest,6a95bfa4e3060c940fba167e4fdba18d,2081
+client/lua/lua.unity3d,760cd0f622790c94e1aca5d47dc91b10,9785
+client/lua/lua.unity3d.manifest,c3b27f81969982ae7eb6e6a5a6ebdbe0,625

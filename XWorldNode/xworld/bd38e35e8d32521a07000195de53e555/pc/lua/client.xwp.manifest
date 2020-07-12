@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4258815112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2c511ba2f7764dc384021f966621677
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaTemp/UI.lua.bytes
+- Assets/LuaTemp/data.lua.bytes
+- Assets/LuaTemp/choiceactor.lua.bytes
+- Assets/LuaTemp/ProxyList.lua.bytes
+- Assets/LuaTemp/LinkerList.lua.bytes
+- Assets/LuaTemp/xwclient.lua.bytes
+- Assets/LuaTemp/XPanel.lua.bytes
+Dependencies: []

@@ -1,0 +1,24 @@
+
+xmain.Send("abc")
+
+--注册--register
+xmain.linker:Logon("127.0.0.1", "11666", 0, "udxreg4", "abcd99", "nickname1", 3)
+xmain.linker:Logon("193.112.181.102", "11666", 0, "udxs1", "abcd99", "name1", 3)
+
+--登录
+xmain.linker:Logon("193.112.181.102", "11666", 1, "udxreg9", "abcd99")
+
+--连接
+xmain.linkerdata.xworldcenter = xmain.linker:Connect(xmain.linkerdata.xserver_ip, xmain.linkerdata.xserver_port)
+
+--获得数据
+xmain.GetUserData()
+
+SELECT account, passwordmd5, invitecount FROM user where invite = \'1\'
+
+SELECT passwordmd5, uuid, nickname from user where account = \'udx1\'
+
+
+SELECT account, money, point, xwp, exp, level, id FROM user where xid = '5e5b1e5c1a13c495ec8c0001876e4c4b'
+
+重新登录需要删除basedata.xw文件

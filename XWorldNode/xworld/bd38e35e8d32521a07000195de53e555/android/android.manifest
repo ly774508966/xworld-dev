@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1805405979
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua/client.xwp
+      Dependencies: {}
+    Info_1:
+      Name: scene.xwp
+      Dependencies: {}
+    Info_2:
+      Name: res_object.xwp
+      Dependencies: {}
+    Info_3:
+      Name: res_character_zombie_models.xwp
+      Dependencies:
+        Dependency_0: res_character_zombie_models_materials.xwp
+    Info_4:
+      Name: res_character_zombie_models_materials.xwp
+      Dependencies:
+        Dependency_0: res_character_zombie_models.xwp
+    Info_5:
+      Name: res_ui_choiceres.xwp
+      Dependencies: {}
+    Info_6:
+      Name: res_ui_linkerlist.xwp
+      Dependencies: {}

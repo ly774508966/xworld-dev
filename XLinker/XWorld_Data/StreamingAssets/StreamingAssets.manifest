@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 1411267797
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua/lua_cjson.xwp
+      Dependencies: {}
+    Info_1:
+      Name: lua/lua_common.xwp
+      Dependencies: {}
+    Info_2:
+      Name: lua/lua_controller.xwp
+      Dependencies: {}
+    Info_3:
+      Name: lua/lua_jit.xwp
+      Dependencies: {}
+    Info_4:
+      Name: lua/lua_logic.xwp
+      Dependencies: {}
+    Info_5:
+      Name: lua/lua_lpeg.xwp
+      Dependencies: {}
+    Info_6:
+      Name: lua/lua_misc.xwp
+      Dependencies: {}
+    Info_7:
+      Name: lua/lua_protobuf.xwp
+      Dependencies: {}
+    Info_8:
+      Name: lua/lua_socket.xwp
+      Dependencies: {}
+    Info_9:
+      Name: lua/lua_system.xwp
+      Dependencies: {}
+    Info_10:
+      Name: lua/lua_unityengine.xwp
+      Dependencies: {}
+    Info_11:
+      Name: lua/lua_view.xwp
+      Dependencies: {}
+    Info_12:
+      Name: lua/lua_3rd_cjson.xwp
+      Dependencies: {}
+    Info_13:
+      Name: lua/lua_3rd_luabitop.xwp
+      Dependencies: {}
+    Info_14:
+      Name: lua/lua_system_injection.xwp
+      Dependencies: {}
+    Info_15:
+      Name: lua/lua_system_reflection.xwp
+      Dependencies: {}
+    Info_16:
+      Name: lua/lua.xwp
+      Dependencies: {}
+    Info_17:
+      Name: prompt.xwp
+      Dependencies:
+        Dependency_0: prompt_asset.xwp
+        Dependency_1: shared_asset.xwp
+    Info_18:
+      Name: message.xwp
+      Dependencies:
+        Dependency_0: shared_asset.xwp
+    Info_19:
+      Name: update.xwp
+      Dependencies: {}
+    Info_20:
+      Name: login.xwp
+      Dependencies:
+        Dependency_0: shared_asset.xwp
+    Info_21:
+      Name: setting.xwp
+      Dependencies:
+        Dependency_0: shared_asset.xwp
+    Info_22:
+      Name: prompt_asset.xwp
+      Dependencies: {}
+    Info_23:
+      Name: shared_asset.xwp
+      Dependencies: {}

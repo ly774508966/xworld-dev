@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 794141761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0692383299946c3c01e5aa38a660e6ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a27130e5c50f7357a179e2caf5a0f34f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Character/Zombie_Models/ZN_Male.jpg
+- Assets/Res/Character/Zombie_Models/MaleZombie.FBX
+Dependencies:
+- D:/ud/XWorld/XWorld/XWorldNode/xworld/bd38e35e8d32521a07000195de53e555/android/res_character_zombie_models_materials.xwp
